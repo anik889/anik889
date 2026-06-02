@@ -28,6 +28,18 @@ I'm studying CS not just to get a degree but to *actually understand* the field 
 
 <br>
 
+**What drives me**
+
+- Turning complex problems into clean, elegant solutions
+- Sharpening thinking speed and precision through competitive programming
+- Understanding *why* algorithms work, not just *that* they work
+- Building software with real design sensibility and practical impact
+- Going deep enough in CS theory to eventually contribute to it
+
+---
+
+<br>
+
 **Education**
 
 🎓 &nbsp; BSc in Computer Science & Engineering &nbsp;·&nbsp; Green University of Bangladesh &nbsp;·&nbsp; *Ongoing*
@@ -36,7 +48,7 @@ I'm studying CS not just to get a degree but to *actually understand* the field 
 
 **Competitive Programming**
 
-Competed in national and international contests. C++ is the primary language of choice for all competitive work.
+Competed at the national level and on global stages. C++ is the weapon of choice.
 
 | Contest | Organizer | Scope |
 |:---|:---|:---|
@@ -88,7 +100,16 @@ Competed in national and international contests. C++ is the primary language of 
 
 <br>
 
-**Selected Work**
+**What's in this repo**
+
+| | |
+|:---|:---|
+| 📂 `Codeforces-Solution` | Accepted solutions from rated rounds and contests |
+| 📂 `GREEN-OJ-Problem-Solving` | Contest and practice solutions from Green University OJ |
+| 📂 `GUBCPC-Marathon` | Solutions from GUBCPC programming club marathons |
+| 📂 `NOOBfolio-V-2.0.1` | Personal portfolio — built with TypeScript |
+| 📂 `CSE-Course-Based-Problem` | Coursework problems and solutions in C |
+| 📂 `flappy-bird` | A browser game built in HTML — because why not |
 
 <div align="center">
 
@@ -109,6 +130,14 @@ Competed in national and international contests. C++ is the primary language of 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=anik889&bg_color=0d1117&color=58a6ff&line=58a6ff&point=e6edf3&area=true&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+> *Good software isn't written — it's refined, one commit at a time.*
 
 </div>
 
