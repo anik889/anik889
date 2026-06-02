@@ -86,9 +86,9 @@ Competed at the national level and on global stages. C++ is the weapon of choice
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anik889&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=github" height="160" />
+<img src="https://github-readme-stats-eight-nu.vercel.app/api?username=anik889&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true" height="160" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anik889&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" height="160" />
+<img src="https://github-readme-stats-eight-nu.vercel.app/api/top-langs/?username=anik889&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" height="160" />
 
 </div>
 
@@ -104,24 +104,12 @@ Competed at the national level and on global stages. C++ is the weapon of choice
 
 | | |
 |:---|:---|
-| 📂 `Codeforces-Solution` | Accepted solutions from rated rounds and contests |
-| 📂 `GREEN-OJ-Problem-Solving` | Contest and practice solutions from Green University OJ |
-| 📂 `GUBCPC-Marathon` | Solutions from GUBCPC programming club marathons |
-| 📂 `NOOBfolio-V-2.0.1` | Personal portfolio — built with TypeScript |
-| 📂 `CSE-Course-Based-Problem` | Coursework problems and solutions in C |
-| 📂 `flappy-bird` | A browser game built in HTML — because why not |
-
-<div align="center">
-
-[![Codeforces Solutions](https://github-readme-stats.vercel.app/api/pin/?username=anik889&repo=Codeforces-Solution&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)](https://github.com/anik889/Codeforces-Solution)
-&nbsp;
-[![Green OJ Solutions](https://github-readme-stats.vercel.app/api/pin/?username=anik889&repo=GREEN-OJ-Problem-Solving&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)](https://github.com/anik889/GREEN-OJ-Problem-Solving)
-
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=anik889&repo=NOOBfolio-V-2.0.1&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)](https://github.com/anik889/NOOBfolio-V-2.0.1)
-&nbsp;
-[![Flappy Bird](https://github-readme-stats.vercel.app/api/pin/?username=anik889&repo=flappy-bird&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)](https://github.com/anik889/flappy-bird)
-
-</div>
+| 📂 [`Codeforces-Solution`](https://github.com/anik889/Codeforces-Solution) | Accepted solutions from rated rounds and contests |
+| 📂 [`GREEN-OJ-Problem-Solving`](https://github.com/anik889/GREEN-OJ-Problem-Solving) | Contest and practice solutions from Green University OJ |
+| 📂 [`GUBCPC-Marathon`](https://github.com/anik889/GUBCPC-Marathon) | Solutions from GUBCPC programming club marathons |
+| 📂 [`NOOBfolio-V-2.0.1`](https://github.com/anik889/NOOBfolio-V-2.0.1) | Personal portfolio — built with TypeScript |
+| 📂 [`CSE-Course-Based-Problem`](https://github.com/anik889/CSE-Course-Based-Problem) | Coursework problems and solutions in C |
+| 📂 [`flappy-bird`](https://github.com/anik889/flappy-bird) | A browser game built in HTML — because why not |
 
 <br>
 
