@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,50:161b22,100:0d1117&height=180&section=header&text=Anikur%20Rahman&fontSize=52&fontColor=e6edf3&fontAlign=70&fontAlignY=45&desc=Computer%20Science%20%C2%B7%20Competitive%20Programming%20%C2%B7%20Research&descAlign=70&descAlignY=65&descColor=8b949e&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,50:161b22,100:0d1117&height=180&section=header&text=Anikur%20Rahman&fontSize=52&fontColor=e6edf3&fontAlign=70&fontAlignY=45&desc=Computer%20Science%20%C2%B7%20Competitive%20Programming%20%C2%B7%20Research&descAlign=70&descAlignY=65&descColor=8b949e&animation=fadeIn" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&width=480&lines=BSc+Computer+Science+%E2%80%94+Green+University+of+Bangladesh;Competitive+Programmer+%E2%80%94+Codeforces+%C2%B7+AtCoder+%C2%B7+CodeChef;NHSPC+%C2%B7+Facebook+Hacker+Cup+%C2%B7+CodeChef+Smackdown;Aspiring+Researcher+%E2%80%94+future+papers+incoming)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&width=480&lines=BSc+Computer+Science+%E2%80%94+Green+University+of+Bangladesh;Competitive+Programmer+%E2%80%94+Codeforces+%C2%B7+AtCoder+%C2%B7+CodeChef;NHSPC+%C2%B7+Facebook+Hacker+Cup+%C2%B7+CodeChef+Smackdown;Aspiring+Researcher+%E2%80%94+future+papers+incoming)](https://github.com/anik889)
 
 </div>
 
@@ -20,9 +20,9 @@ CP came first. The pressure of a 2-hour contest — 8 problems, one compiler, no
 
 I'm studying CS not just to get a degree but to *actually understand* the field — deeply enough to one day contribute to it. Research is the goal. Publishing papers, pushing ideas forward, building things that outlast the work.
 
-&nbsp;&nbsp;&nbsp;`currently` — CS undergrad · grinding CP · building for the web  
-&nbsp;&nbsp;&nbsp;`next` — go deeper into theory · read papers · open source  
-&nbsp;&nbsp;&nbsp;`endgame` — researcher · author · someone who added something real
+&nbsp;&nbsp;&nbsp;`currently` &nbsp;—&nbsp; CS undergrad &nbsp;·&nbsp; grinding CP &nbsp;·&nbsp; building for the web  
+&nbsp;&nbsp;&nbsp;`next` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;—&nbsp; go deeper into theory &nbsp;·&nbsp; read papers &nbsp;·&nbsp; open source  
+&nbsp;&nbsp;&nbsp;`endgame` &nbsp;—&nbsp; researcher &nbsp;·&nbsp; author &nbsp;·&nbsp; someone who added something real
 
 ---
 
@@ -61,10 +61,10 @@ Competed in national and international contests. C++ is the primary language of 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-![Algorithms & DS](https://img.shields.io/badge/Algorithms_%26_Data_Structures-161b22?style=flat-square&logoColor=white)
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-161b22?style=flat-square&logoColor=white)
-![Full Stack Web](https://img.shields.io/badge/Full_Stack_Web-161b22?style=flat-square&logoColor=white)
-![Software Engineering](https://img.shields.io/badge/Software_Engineering-161b22?style=flat-square&logoColor=white)
+![Algorithms & DS](https://img.shields.io/badge/Algorithms_%26_DS-161b22?style=flat-square)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-161b22?style=flat-square)
+![Full Stack Web](https://img.shields.io/badge/Full_Stack_Web-161b22?style=flat-square)
+![Software Engineering](https://img.shields.io/badge/Software_Engineering-161b22?style=flat-square)
 
 </div>
 
@@ -74,15 +74,15 @@ Competed in national and international contests. C++ is the primary language of 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anik889&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=anik889&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=github" height="160" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anik889&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anik889&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" height="160" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=anik889&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=58a6ff&currStreakLabel=e6edf3&sideLabels=8b949e&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com/?user=anik889&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=58a6ff&currStreakLabel=e6edf3&sideLabels=8b949e&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3" height="150" />
 
 </div>
 
@@ -108,7 +108,7 @@ Competed in national and international contests. C++ is the primary language of 
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anik889&bg_color=0d1117&color=58a6ff&line=58a6ff&point=e6edf3&area=true&area_color=58a6ff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anik889&bg_color=0d1117&color=58a6ff&line=58a6ff&point=e6edf3&area=true&hide_border=true" />
 
 </div>
 
@@ -122,7 +122,7 @@ Competed in national and international contests. C++ is the primary language of 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-anik889.github.io-58a6ff?style=flat-square&logo=googlechrome&logoColor=white)](https://anik889.github.io/NOOBfolio-V-2.0.1/)
 &nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-@anik889-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/anik889)
+[![GitHub](https://img.shields.io/badge/GitHub-%40anik889-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/anik889)
 &nbsp;&nbsp;
 ![Visitors](https://komarev.com/ghpvc/?username=anik889&style=flat-square&color=58a6ff&label=profile+views)
 
@@ -131,5 +131,5 @@ Competed in national and international contests. C++ is the primary language of 
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=80&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=80&section=footer" />
 </div>
