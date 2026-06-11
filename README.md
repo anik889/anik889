@@ -94,43 +94,6 @@ I've competed nationally and internationally — the pressure of timed contests 
 <br/>
 
 ---
-
-### GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anik889&show_icons=true&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9&count_private=true&cache_seconds=1800" height="158"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anik889&layout=compact&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&langs_count=6&cache_seconds=1800" height="158"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=anik889&hide_border=true&background=0d1117&stroke=21262d&ring=3fb950&fire=3fb950&currStreakLabel=e6edf3&sideLabels=7d8590&dates=7d8590&currStreakNum=e6edf3&sideNums=e6edf3" height="148"/>
-</div>
-
-<br/>
-
----
-
-### Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anik889&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
-</div>
-
-<br/>
-
----
-
-### Coding Activity
-
-<div align="center">
-  <img src="https://wakatime.com/share/@NOOBmaster05/41476b1b-f834-41ea-9ae7-7da297e11b19.svg" height="220" />
-</div>
-
-<br/>
-
----
-
 ### Work
 
 Competitive programming archives, web projects, and experiments — an honest record of where I've been and what I've built.
@@ -144,7 +107,16 @@ Competitive programming archives, web projects, and experiments — an honest re
 | 📁 [CSE-Course-Based-Problem](https://github.com/anik889/CSE-Course-Based-Problem) | Coursework problems solved in C |
 | 📁 [flappy-bird](https://github.com/anik889/flappy-bird) | Browser game — HTML/CSS/JS |
 
+---
+
 <br/>
+### GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anik889&show_icons=true&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9&count_private=true&cache_seconds=1800" height="158"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anik889&layout=compact&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&langs_count=6&cache_seconds=1800" height="158"/>
+</div>
 
 ---
 
