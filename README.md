@@ -107,9 +107,10 @@ Competitive programming archives, web projects, and experiments — an honest re
 | 📁 [CSE-Course-Based-Problem](https://github.com/anik889/CSE-Course-Based-Problem) | Coursework problems solved in C |
 | 📁 [flappy-bird](https://github.com/anik889/flappy-bird) | Browser game — HTML/CSS/JS |
 
+<br/>
+
 ---
 
-<br/>
 ### GitHub Stats
 
 <div align="center">
