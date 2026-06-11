@@ -1,28 +1,12 @@
 <div align="center">
-  <img src="./a_pixie_dyed_here.gif" width="480" />
+  <img src="./a_pixie_dyed_here.gif" width="100%" />
 </div>
 
 <div align="center">
   <h2>MD. Anikur Rahman</h2>
-  <sub>CS Student &nbsp;—&nbsp; Competitive Programmer &nbsp;—&nbsp; Aspiring Researcher</sub>
-</div>
-
-<br/>
-
-<div align="center">
   <a href="https://github.com/anik889">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2800&pause=1800&color=3FB950&center=true&vCenter=true&width=520&lines=Thinking+in+algorithms.+Building+with+code.;NHSPC+%C2%B7+Facebook+Hacker+Cup+%C2%B7+CodeChef+Smackdown;C%2B%2B+%2F+Python+%2F+TypeScript+%2F+React;Codeforces+%C2%B7+AtCoder+%C2%B7+CodeChef+%E2%80%94+ongoing;BSc+CSE+%E2%80%94+Green+University+of+Bangladesh" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2800&pause=1800&color=3FB950&center=true&vCenter=true&width=520&lines=CS+Student+%E2%80%94+Competitive+Programmer+%E2%80%94+Aspiring+Researcher;NHSPC+%C2%B7+Facebook+Hacker+Cup+%C2%B7+CodeChef+Smackdown+%C2%B7+Codeforces+%C2%B7+AtCoder" alt="Typing SVG" />
   </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Competitive%20Programmer-active-3fb950?style=flat-square&labelColor=161b22" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open%20to-Research%20Collabs-58a6ff?style=flat-square&labelColor=161b22" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Based%20in-Bangladesh%20%F0%9F%87%A7%F0%9F%87%A9-e6edf3?style=flat-square&labelColor=161b22" />
 </div>
 
 ---
@@ -58,6 +42,15 @@ I've competed nationally and internationally — the pressure of timed contests 
 | 🔁 | Rated Rounds | Codeforces | Ongoing |
 | 🌸 | Regular Contests | AtCoder | Ongoing |
 | 🏫 | Club Contests & Marathons | GUBCPC | University |
+
+<div align="center">
+  <br/>
+  <img src="https://cf.leed.at?id=anik889" alt="Codeforces Rating" />
+  &nbsp;
+  <a href="https://codeforces.com/profile/anik889">
+    <img src="https://img.shields.io/badge/Codeforces-anik889-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" />
+  </a>
+</div>
 
 <br/>
 
@@ -118,6 +111,26 @@ I've competed nationally and internationally — the pressure of timed contests 
 
 ---
 
+### Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anik889&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" />
+</div>
+
+<br/>
+
+---
+
+### Coding Activity
+
+<div align="center">
+  <img src="https://wakatime.com/share/@NOOBmaster05/7b4d2326-1934-4a2b-a243-b31381818b77.svg" height="220" />
+</div>
+
+<br/>
+
+---
+
 ### Work
 
 Competitive programming archives, web projects, and experiments — an honest record of where I've been and what I've built.
@@ -145,18 +158,34 @@ Competitive programming archives, web projects, and experiments — an honest re
 
 ---
 
-<div align="center">
-  <sub>
-    <a href="https://anik889.github.io/NOOBfolio-V-2.0.1/">🌐 Portfolio</a>
-    &nbsp;&nbsp;·&nbsp;&nbsp;
-    <a href="https://codeforces.com/profile/anik889">Codeforces</a>
-    &nbsp;&nbsp;·&nbsp;&nbsp;
-    <a href="https://github.com/anik889">GitHub</a>
-  </sub>
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=anik889&style=flat-square&color=3fb950&label=profile+views"/>
-</div>
+### Connect
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0d2137&height=80&section=footer"/>
+
+  <a href="https://codeforces.com/profile/anik889">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" height="40" />
+  </a>
+  &nbsp;
+  <a href="https://www.codechef.com/users/anik889">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" height="40" />
+  </a>
+  &nbsp;
+  <a href="https://atcoder.jp/users/anik889">
+    <img src="https://img.shields.io/badge/AtCoder-000000?style=for-the-badge&logo=atcoder&logoColor=white" height="40" />
+  </a>
+  &nbsp;
+  <a href="https://anik889.github.io/NOOBfolio-V-2.0.1/">
+    <img src="https://img.shields.io/badge/Portfolio-3fb950?style=for-the-badge&logo=googlechrome&logoColor=white" height="40" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/anik889">
+    <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" height="40" />
+  </a>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=anik889&style=flat-square&color=3fb950&label=profile+views"/>
 </div>
