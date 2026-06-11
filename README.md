@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./a_pixie_dyed_here.gif" width="100%" />
+  <img src="./a_pixie_dyed_here.gif" width="100%" style="max-height:220px; object-fit:cover;" />
 </div>
 
 <div align="center">
