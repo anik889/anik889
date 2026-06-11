@@ -1,152 +1,155 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,50:161b22,100:0d1117&height=180&section=header&text=Anikur%20Rahman&fontSize=52&fontColor=e6edf3&fontAlign=70&fontAlignY=45&desc=Computer%20Science%20%C2%B7%20Competitive%20Programming%20%C2%B7%20Research&descAlign=70&descAlignY=65&descColor=8b949e&animation=fadeIn" />
-
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0d2137,100:0d1117&height=220&section=header&text=MD.%20Anikur%20Rahman&fontSize=48&fontColor=e6edf3&fontAlignY=55&desc=CS%20Student%20%E2%80%94%20Competitive%20Programmer%20%E2%80%94%20Aspiring%20Researcher&descAlignY=75&descColor=7d8590&animation=fadeIn" />
 </div>
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&width=480&lines=BSc+Computer+Science+%E2%80%94+Green+University+of+Bangladesh;Competitive+Programmer+%E2%80%94+Codeforces+%C2%B7+AtCoder+%C2%B7+CodeChef;NHSPC+%C2%B7+Facebook+Hacker+Cup+%C2%B7+CodeChef+Smackdown;Aspiring+Researcher+%E2%80%94+future+papers+incoming)](https://github.com/anik889)
-
+  <a href="https://github.com/anik889">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2800&pause=1800&color=3FB950&center=true&vCenter=true&width=520&lines=Thinking+in+algorithms.+Building+with+code.;NHSPC+%C2%B7+Facebook+Hacker+Cup+%C2%B7+CodeChef+Smackdown;C%2B%2B+%2F+Python+%2F+TypeScript+%2F+React;Codeforces+%C2%B7+AtCoder+%C2%B7+CodeChef+%E2%80%94+ongoing" alt="Typing SVG" />
+  </a>
 </div>
 
-<br>
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Competitive%20Programmer-active-3fb950?style=flat-square&labelColor=161b22" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20to-Research%20Collabs-58a6ff?style=flat-square&labelColor=161b22" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Based%20in-Bangladesh%20%F0%9F%87%A7%F0%9F%87%A9-e6edf3?style=flat-square&labelColor=161b22" />
+</div>
 
 ---
 
-**hey, I'm Anikur** — I think in algorithms, build in code, and compete for the love of hard problems.
+<br/>
 
-CP came first. The pressure of a 2-hour contest — 8 problems, one compiler, no hints — taught me how to stay calm, think clearly, and find the clean solution hidden inside the ugly one. That discipline now shapes everything I write, whether it's a contest submission or a production feature.
+CS undergrad by day, competitive programmer by passion. I live for the moment a hard problem clicks — when the noise clears, the structure reveals itself, and the solution writes itself cleanly. That feeling is what keeps me going.
 
-I'm studying CS not just to get a degree but to *actually understand* the field — deeply enough to one day contribute to it. Research is the goal. Publishing papers, pushing ideas forward, building things that outlast the work.
+Beyond contests, I care deeply about software engineering and building things that actually work and feel considered. But the long game is research — understanding CS well enough to contribute to it, and publishing work that moves the field forward.
 
-&nbsp;&nbsp;&nbsp;`currently` &nbsp;—&nbsp; CS undergrad &nbsp;·&nbsp; grinding CP &nbsp;·&nbsp; building for the web  
-&nbsp;&nbsp;&nbsp;`next` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;—&nbsp; go deeper into theory &nbsp;·&nbsp; read papers &nbsp;·&nbsp; open source  
-&nbsp;&nbsp;&nbsp;`endgame` &nbsp;—&nbsp; researcher &nbsp;·&nbsp; author &nbsp;·&nbsp; someone who added something real
+```
+  currently  →  BSc CSE · Green University of Bangladesh
+  competing  →  Codeforces · AtCoder · CodeChef · GUBCPC
+  building   →  full-stack web projects · CP solution archive
+  goal       →  researcher · published author · strong engineer
+```
 
----
-
-<br>
-
-**What drives me**
-
-- Turning complex problems into clean, elegant solutions
-- Sharpening thinking speed and precision through competitive programming
-- Understanding *why* algorithms work, not just *that* they work
-- Building software with real design sensibility and practical impact
-- Going deep enough in CS theory to eventually contribute to it
+<br/>
 
 ---
 
-<br>
+### Competitive Programming
 
-**Education**
+I've competed nationally and internationally — the pressure of timed contests is where I've sharpened most of my thinking.
 
-🎓 &nbsp; BSc in Computer Science & Engineering &nbsp;·&nbsp; Green University of Bangladesh &nbsp;·&nbsp; *Ongoing*
+<br/>
 
-<br>
+| &nbsp; | Contest | Platform | Level |
+|:---:|:---|:---|:---:|
+| 🏆 | National High School Programming Contest | NHSPC | 🇧🇩 National |
+| 🌍 | Hacker Cup | Meta / Facebook | Global |
+| ⚔️ | Smackdown | CodeChef | Global |
+| 🔁 | Rated Rounds | Codeforces | Ongoing |
+| 🌸 | Regular Contests | AtCoder | Ongoing |
+| 🏫 | Club Contests & Marathons | GUBCPC | University |
 
-**Competitive Programming**
+<br/>
 
-Competed at the national level and on global stages. C++ is the weapon of choice.
+---
 
-| Contest | Organizer | Scope |
-|:---|:---|:---|
-| National High School Programming Contest | NHSPC | 🇧🇩 National |
-| Hacker Cup | Meta | 🌐 Global |
-| Smackdown | CodeChef | 🌐 Global |
-| Rated Rounds & Div. Contests | Codeforces | 🌐 Ongoing |
-| Algorithm Regular Contests | AtCoder | 🌐 Ongoing |
-| Programming Club Contests | GUBCPC | 🏫 University |
-
-<br>
-
-**Technical Skills**
+### Tech Stack
 
 <div align="center">
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-555555?style=flat-square&logo=c&logoColor=A8B9CC)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-![Algorithms & DS](https://img.shields.io/badge/Algorithms_%26_DS-161b22?style=flat-square)
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-161b22?style=flat-square)
-![Full Stack Web](https://img.shields.io/badge/Full_Stack_Web-161b22?style=flat-square)
-![Software Engineering](https://img.shields.io/badge/Software_Engineering-161b22?style=flat-square)
+<div>
+  <div style="display:flex;align-items:center;margin-bottom:10px">
+    <span style="width:120px;font-weight:600">Languages</span>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="32" height="32" />&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="32" height="32" />&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" height="32" />&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" height="32" />&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32" height="32" />
+  </div>
+  <div style="display:flex;align-items:center;margin-bottom:10px">
+    <span style="width:120px;font-weight:600">Web</span>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32" height="32" />&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32" height="32" />&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32" height="32" />
+  </div>
+  <div style="display:flex;align-items:center;margin-bottom:10px">
+    <span style="width:120px;font-weight:600">Databases</span>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="32" height="32" />&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="32" height="32" />&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="32" height="32" />
+  </div>
+  <div style="display:flex;align-items:center">
+    <span style="width:120px;font-weight:600">Tools</span>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32" height="32" />&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" height="32" />&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="32" height="32" />
+  </div>
+</div>
 
 </div>
 
-<br>
+<br/>
 
-**GitHub Stats**
+---
+
+### GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats-eight-nu.vercel.app/api?username=anik889&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true" height="160" />
-&nbsp;
-<img src="https://github-readme-stats-eight-nu.vercel.app/api/top-langs/?username=anik889&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" height="160" />
-
+  <img src="https://github-readme-stats-eight-nu.vercel.app/api?username=anik889&show_icons=true&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9&count_private=true&include_all_commits=true" height="158"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats-eight-nu.vercel.app/api/top-langs/?username=anik889&layout=compact&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&langs_count=6" height="158"/>
 </div>
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=anik889&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=58a6ff&currStreakLabel=e6edf3&sideLabels=8b949e&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3" height="150" />
-
+  <img src="https://streak-stats.demolab.com/?user=anik889&hide_border=true&background=0d1117&stroke=21262d&ring=3fb950&fire=3fb950&currStreakLabel=e6edf3&sideLabels=7d8590&dates=7d8590&currStreakNum=e6edf3&sideNums=e6edf3" height="148"/>
 </div>
 
-<br>
+<br/>
 
-**What's in this repo**
+---
 
-| | |
+### Work
+
+Competitive programming archives, web projects, and experiments — an honest record of where I've been and what I've built.
+
+| Repo | Description |
 |:---|:---|
-| 📂 [`Codeforces-Solution`](https://github.com/anik889/Codeforces-Solution) | Accepted solutions from rated rounds and contests |
-| 📂 [`GREEN-OJ-Problem-Solving`](https://github.com/anik889/GREEN-OJ-Problem-Solving) | Contest and practice solutions from Green University OJ |
-| 📂 [`GUBCPC-Marathon`](https://github.com/anik889/GUBCPC-Marathon) | Solutions from GUBCPC programming club marathons |
-| 📂 [`NOOBfolio-V-2.0.1`](https://github.com/anik889/NOOBfolio-V-2.0.1) | Personal portfolio — built with TypeScript |
-| 📂 [`CSE-Course-Based-Problem`](https://github.com/anik889/CSE-Course-Based-Problem) | Coursework problems and solutions in C |
-| 📂 [`flappy-bird`](https://github.com/anik889/flappy-bird) | A browser game built in HTML — because why not |
+| 📁 [Codeforces-Solution](https://github.com/anik889/Codeforces-Solution) | Accepted solutions from Codeforces rated rounds |
+| 📁 [GREEN-OJ-Problem-Solving](https://github.com/anik889/GREEN-OJ-Problem-Solving) | Solutions from Green University OJ contests |
+| 📁 [GUBCPC-Marathon](https://github.com/anik889/GUBCPC-Marathon) | GUBCPC club marathon solutions |
+| 📁 [NOOBfolio-V-2.0.1](https://github.com/anik889/NOOBfolio-V-2.0.1) | Personal portfolio — TypeScript |
+| 📁 [CSE-Course-Based-Problem](https://github.com/anik889/CSE-Course-Based-Problem) | Coursework problems solved in C |
+| 📁 [flappy-bird](https://github.com/anik889/flappy-bird) | Browser game — HTML/CSS/JS |
 
-<br>
+<br/>
 
-**Contribution Activity**
+---
+
+### Contribution Activity
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anik889&bg_color=0d1117&color=58a6ff&line=58a6ff&point=e6edf3&area=true&hide_border=true" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anik889&bg_color=0d1117&color=3fb950&line=3fb950&point=e6edf3&area=true&area_color=3fb950&hide_border=true"/>
 </div>
+
+<br/>
 
 ---
 
 <div align="center">
-
-> *Good software isn't written — it's refined, one commit at a time.*
-
+  <sub>
+    <a href="https://anik889.github.io/NOOBfolio-V-2.0.1/">🌐 Portfolio</a>
+    &nbsp;&nbsp;·&nbsp;&nbsp;
+    <a href="https://codeforces.com/profile/anik889">Codeforces</a>
+    &nbsp;&nbsp;·&nbsp;&nbsp;
+    <a href="https://github.com/anik889">GitHub</a>
+  </sub>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=anik889&style=flat-square&color=3fb950&label=profile+views"/>
 </div>
 
----
-
 <div align="center">
-
-<sub>Open to research collaborations, CP discussions, and engineering opportunities</sub>
-
-<br>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-anik889.github.io-58a6ff?style=flat-square&logo=googlechrome&logoColor=white)](https://anik889.github.io/NOOBfolio-V-2.0.1/)
-&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-%40anik889-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/anik889)
-&nbsp;&nbsp;
-![Visitors](https://komarev.com/ghpvc/?username=anik889&style=flat-square&color=58a6ff&label=profile+views)
-
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=80&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0d2137&height=80&section=footer"/>
 </div>
