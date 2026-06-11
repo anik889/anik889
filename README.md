@@ -98,13 +98,13 @@ I've competed nationally and internationally — the pressure of timed contests 
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-nu.vercel.app/api?username=anik889&show_icons=true&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9&count_private=true&include_all_commits=true" height="158"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anik889&show_icons=true&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=c9d1d9&count_private=true&cache_seconds=1800" height="158"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats-eight-nu.vercel.app/api/top-langs/?username=anik889&layout=compact&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&langs_count=6" height="158"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anik889&layout=compact&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&langs_count=6&cache_seconds=1800" height="158"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=anik889&hide_border=true&background=0d1117&stroke=21262d&ring=3fb950&fire=3fb950&currStreakLabel=e6edf3&sideLabels=7d8590&dates=7d8590&currStreakNum=e6edf3&sideNums=e6edf3" height="148"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=anik889&hide_border=true&background=0d1117&stroke=21262d&ring=3fb950&fire=3fb950&currStreakLabel=e6edf3&sideLabels=7d8590&dates=7d8590&currStreakNum=e6edf3&sideNums=e6edf3" height="148"/>
 </div>
 
 <br/>
@@ -114,7 +114,7 @@ I've competed nationally and internationally — the pressure of timed contests 
 ### Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anik889&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anik889&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
 </div>
 
 <br/>
@@ -124,7 +124,7 @@ I've competed nationally and internationally — the pressure of timed contests 
 ### Coding Activity
 
 <div align="center">
-  <img src="https://wakatime.com/share/@NOOBmaster05/7b4d2326-1934-4a2b-a243-b31381818b77.svg" height="220" />
+  <img src="https://wakatime.com/share/@NOOBmaster05/41476b1b-f834-41ea-9ae7-7da297e11b19.svg" height="220" />
 </div>
 
 <br/>
