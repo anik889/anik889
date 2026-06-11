@@ -1,10 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0d2137,100:0d1117&height=220&section=header&text=MD.%20Anikur%20Rahman&fontSize=48&fontColor=e6edf3&fontAlignY=55&desc=CS%20Student%20%E2%80%94%20Competitive%20Programmer%20%E2%80%94%20Aspiring%20Researcher&descAlignY=75&descColor=7d8590&animation=fadeIn" />
+  <img src="./a_pixie_dyed_here.gif" width="480" />
 </div>
 
 <div align="center">
+  <h2>MD. Anikur Rahman</h2>
+  <sub>CS Student &nbsp;—&nbsp; Competitive Programmer &nbsp;—&nbsp; Aspiring Researcher</sub>
+</div>
+
+<br/>
+
+<div align="center">
   <a href="https://github.com/anik889">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2800&pause=1800&color=3FB950&center=true&vCenter=true&width=520&lines=Thinking+in+algorithms.+Building+with+code.;NHSPC+%C2%B7+Facebook+Hacker+Cup+%C2%B7+CodeChef+Smackdown;C%2B%2B+%2F+Python+%2F+TypeScript+%2F+React;Codeforces+%C2%B7+AtCoder+%C2%B7+CodeChef+%E2%80%94+ongoing" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2800&pause=1800&color=3FB950&center=true&vCenter=true&width=520&lines=Thinking+in+algorithms.+Building+with+code.;NHSPC+%C2%B7+Facebook+Hacker+Cup+%C2%B7+CodeChef+Smackdown;C%2B%2B+%2F+Python+%2F+TypeScript+%2F+React;Codeforces+%C2%B7+AtCoder+%C2%B7+CodeChef+%E2%80%94+ongoing;BSc+CSE+%E2%80%94+Green+University+of+Bangladesh" alt="Typing SVG" />
   </a>
 </div>
 
