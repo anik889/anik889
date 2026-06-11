@@ -5,7 +5,7 @@
 <div align="center">
   <h2>MD. Anikur Rahman</h2>
   <a href="https://github.com/anik889">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2800&pause=1800&color=3FB950&center=true&vCenter=true&width=520&lines=CS+Student+%E2%80%94+Competitive+Programmer+%E2%80%94+Aspiring+Researcher;NHSPC+%C2%B7+Facebook+Hacker+Cup+%C2%B7+CodeChef+Smackdown+%C2%B7+Codeforces+%C2%B7+AtCoder" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2800&pause=1800&color=3FB950&center=true&vCenter=true&width=520&lines=CS+Student+%E2%80%94+Competitive+Programmer+%E2%80%94+Aspiring+Researcher;NHSPC+%C2%B7+Facebook+Hacker+Cup+%C2%B7+CodeChef+Smackdown+%C2%B7+Codeforces+%C2%B7+AtCoder " alt="Typing SVG" />
   </a>
 </div>
 
