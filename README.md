@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./a_pixie_dyed_here.gif" width="100%" style="max-height:220px; object-fit:cover;" />
+  <!-- <img src="./a_pixie_dyed_here.gif" width="100%" style="max-height:220px; object-fit:cover;" /> -->
   <img src="./Mr_Robot.gif" width="100%" style="max-height:220px; object-fit:cover;" />
 </div>
 
